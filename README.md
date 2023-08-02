@@ -1,3 +1,4 @@
 # 12-factors-app-methodology
 kodekloud
-https://12factor.net
+visit for details: https://12factor.net
+
