@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-07T18:51:36.358Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="jz8ZUO96fnCsrp6OtP1L" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-07T18:52:33.155Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="W96XPsmgaxFK6wG-9j24" version="21.6.2" type="github">
   <diagram name="Page-1" id="_LPVEoF3XmgwlrlQNc1Z">
     <mxGraphModel dx="1434" dy="820" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="8saEMStAEFfvwQkuhHxn-51" value="Port 80" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8saEMStAEFfvwQkuhHxn-42">
           <mxGeometry x="70.5" y="63.25" width="137.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8saEMStAEFfvwQkuhHxn-41" value="&lt;font face=&quot;Verdana&quot;&gt;t3.large&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Architects Daughter;" vertex="1" parent="8saEMStAEFfvwQkuhHxn-42">
+        <mxCell id="8saEMStAEFfvwQkuhHxn-41" value="&lt;font face=&quot;Verdana&quot;&gt;t2.micro&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Architects Daughter;" vertex="1" parent="8saEMStAEFfvwQkuhHxn-42">
           <mxGeometry x="208" y="42" width="125" height="15" as="geometry" />
         </mxCell>
         <mxCell id="8saEMStAEFfvwQkuhHxn-55" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_3;fillColor=#D2D3D3;gradientColor=none;" vertex="1" parent="1">
